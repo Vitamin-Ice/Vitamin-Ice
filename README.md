@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vizarxon
+- 👋 Hi, I’m @Vitamin-Icde
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning jetpack compose
 - 💞️ I’m looking to collaborate on android app development
