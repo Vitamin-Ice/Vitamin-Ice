@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vitamin-Ice
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning jetpack compose
-- 💞️ I’m looking to collaborate on android app development
-- 📫 How to reach me vizard.vizon@gmail.com
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning embedded, C++
 
 <!---
 Vitamin-ice/Vitamin-ice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
